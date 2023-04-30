@@ -10,3 +10,7 @@ run local Splash server with
  to csv with
  
  <code>scrapy crawl SPIDERNAME -O CSV_NAME.csv</code>
+ 
+ ## Незакінчений код
+ 
+ Наразі скрейпер не прогортає сторінки з відгуками й збирає лише відгуки які завантажуються одразу з сторінкою
